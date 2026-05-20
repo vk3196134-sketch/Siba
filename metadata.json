@@ -1,0 +1,6 @@
+{
+  "name": "Tone & Transform",
+  "description": "Premium Dark Luxury Personal Fitness Coaching website of a professional gym trainer and body transformation expert.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
